@@ -1,0 +1,317 @@
+{
+  "menus": [
+    {
+      "id": 1,
+      "title": "Current Offer",
+      "menu_look_type": "dropdown",
+      "icon": "",
+      "category": "offer"
+    },
+    {
+      "id": 2,
+      "title": "Health & Beauty",
+      "menu_look_type": "dropdown",
+      "icon": "",
+      "category": "health"
+    },
+    {
+      "id": 3,
+      "title": "Women’s Fashion",
+      "menu_look_type": "dropdown",
+      "icon": "",
+      "category": "women"
+    },
+    {
+      "id": 4,
+      "title": "Men’s Fashion",
+      "menu_look_type": "dropdown",
+      "icon": "",
+      "category": "men"
+    },
+    {
+      "id": 5,
+      "title": "Baby Care",
+      "menu_look_type": "normal",
+      "icon": "",
+      "category": "baby"
+    },
+    {
+      "id": 6,
+      "title": "Pre Order",
+      "icon": "fi flaticon-make-up",
+      "menu_look_type": "normal",
+      "category": "pre"
+    }
+  ],
+  "category": [
+    {
+      "id": 1,
+      "title": "Makeup",
+      "typeId": 0,
+      "category": "women"
+    },
+    {
+      "id": 2,
+      "title": "Nail Care",
+      "typeId": 1,
+      "category": "offer"
+    },
+    {
+      "id": 3,
+      "title": "Lips Care",
+      "typeId": 2,
+      "category": "offer"
+    },
+    {
+      "id": 4,
+      "title": "Eye Care",
+      "typeId": 3,
+      "category": "women"
+    },
+    {
+      "id": 5,
+      "title": "Bags",
+      "typeId": 4,
+      "category": "women"
+    },
+    {
+      "id": 6,
+      "title": "Clothing",
+      "typeId": 5,
+      "category": "women"
+    },
+    {
+      "id": 7,
+      "title": "Hair",
+      "typeId": 6,
+      "category": "health"
+    
+    },
+    {
+      "id": 8,
+      "title": "Perfume",
+      "typeId": 7,
+      "category": "men"
+    
+    },
+    {
+      "id": 9,
+      "title": "Ring",
+      "typeId": 8,
+      "category": "women"
+    
+    },
+    {
+      "id": 10,
+      "title": "Mirror",
+      "typeId": 9,
+      "category": "women"
+    
+    },
+    {
+      "id": 11,
+      "title": "Oil",
+      "typeId": 10,
+      "category": "women"
+    
+    },
+    {
+      "id": 12,
+      "title": "Shampoo",
+      "typeId": 11,
+      "category": "women"
+    },
+    {
+      "id": 13,
+      "title": "Locket",
+      "typeId": 12,
+      "category": "women"
+    },
+    {
+      "id": 14,
+      "title": "Hijab",
+      "typeId": 13,
+      "category": "women"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "typeId": 0,
+      "title": "accusamus beatae ad facilis cum similique qui sunt",
+      "price": "450",
+      "discount": "0",
+      "url": "https://media.allure.com/photos/5c1933c41f198f2c6627f8c8/1:1/w_2100,h_2100,c_limit/tatcha-violet-c-serum.jpg",
+      "thumbnailUrl": "https://media.allure.com/photos/5c1933c41f198f2c6627f8c8/1:1/w_2100,h_2100,c_limit/tatcha-violet-c-serum.jpg",
+      "category": "women",
+      "qty": "100",
+      "status": 1
+    },
+    {
+      "id": 2,
+      "typeId": 1,
+      "title": "reprehenderit est deserunt velit ipsam",
+      "price": "450",
+      "discount": "0",
+      "url": "https://www.oliviacosmetics.net/web/files/2809766a93c111e89c8a124d46038552/f0cb5d030b5011eaa4d10242b290a65e",
+      "thumbnailUrl": "https://www.oliviacosmetics.net/web/files/2809766a93c111e89c8a124d46038552/f0cb5d030b5011eaa4d10242b290a65e",
+      "category": "women",
+      "qty": "100",
+      "status": 1
+    },
+    {
+      "id": 3,
+      "typeId": 2,
+      "title": "officia porro iure quia iusto qui ipsa ut modi",
+      "price": "450",
+      "discount": "130",
+      "url": "https://99designs-blog.imgix.net/blog/wp-content/uploads/2017/12/attachment_83403459.png?auto=format&q=60&fit=max&w=930",
+      "thumbnailUrl": "https://99designs-blog.imgix.net/blog/wp-content/uploads/2017/12/attachment_83403459.png?auto=format&q=60&fit=max&w=930",
+      "category": "women",
+      "qty": "100",
+      "status": 1
+    },
+    {
+      "id": 4,
+      "typeId": 3,
+      "title": "culpa odio esse rerum omnis laboriosam voluptate repudiandae",
+      "price": "450",
+      "discount": "0",
+      "url": "https://img.beautylaunchpad.com/files/base/allured/all/image/2019/01/blp.kaja-cheeky-stamp.png?auto=format%2Ccompress&q=70&w=700",
+      "thumbnailUrl": "https://img.beautylaunchpad.com/files/base/allured/all/image/2019/01/blp.kaja-cheeky-stamp.png?auto=format%2Ccompress&q=70&w=700",
+      "category": "women",
+      "qty": "100",
+      "status": 1
+    },
+    {
+      "id": 5,
+      "typeId": 1,
+      "title": "natus nisi omnis corporis facere molestiae rerum in",
+      "price": "450",
+      "discount": "130",
+      "url": "https://cdn.theculturetrip.com/wp-content/uploads/2017/11/kokum-butter.jpg",
+      "thumbnailUrl": "https://cdn.theculturetrip.com/wp-content/uploads/2017/11/kokum-butter.jpg",
+      "category": "women",
+      "qty": "0",
+      "status": 1
+    },
+    {
+      "id": 6,
+      "typeId": 1,
+      "title": "accusamus ea aliquid et amet sequi nemo",
+      "price": "450",
+      "discount": "130",
+      "url": "https://99designs-blog.imgix.net/blog/wp-content/uploads/2017/12/3-attachment_94101630.jpeg?auto=format&q=60&fit=max&w=930",
+      "thumbnailUrl": "https://99designs-blog.imgix.net/blog/wp-content/uploads/2017/12/3-attachment_94101630.jpeg?auto=format&q=60&fit=max&w=930",
+      "category": "women",
+      "qty": "100",
+      "status": 1
+    },
+    {
+      "id": 7,
+      "typeId": 1,
+      "title": "accusamus ea aliquid et amet sequi nemo",
+      "price": "450",
+      "discount": "130",
+      "url": "https://cdn.influenster.com/media/hub/post/image/best_it_cosmetics_products.jpeg",
+      "thumbnailUrl": "https://cdn.influenster.com/media/hub/post/image/best_it_cosmetics_products.jpeg",
+      "category": "women",
+      "qty": "0",
+      "status": 1
+    },
+    {
+      "id": 8,
+      "typeId": 1,
+      "title": "accusamus ea aliquid et amet sequi nemo",
+      "price": "450",
+      "discount": "130",
+      "url": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1529078130-best-makeup-0000-skincaviarlaprairie-1529078121.jpg?crop=1xw:1xh;center,top&resize=480:*",
+      "thumbnailUrl": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1529078130-best-makeup-0000-skincaviarlaprairie-1529078121.jpg?crop=1xw:1xh;center,top&resize=480:*",
+      "category": "women",
+      "qty": "0",
+      "status": 1
+    },
+    {
+      "id": 9,
+      "typeId": 1,
+      "title": "accusamus ea aliquid et amet sequi nemo",
+      "price": "450",
+      "discount": "130",
+      "url": "https://weheartthis.com/wp-content/uploads/2019/11/farmasi-cosmetics-3in1-face-palette.jpg",
+      "thumbnailUrl": "https://weheartthis.com/wp-content/uploads/2019/11/farmasi-cosmetics-3in1-face-palette.jpg",
+      "category": "women",
+      "qty": "100",
+      "status": 1
+    },
+    {
+      "id": 10,
+      "typeId": 1,
+      "title": "accusamus ea aliquid et amet sequi nemo",
+      "price": "450",
+      "discount": "130",
+      "url": "https://www.walgreens.com/images/adaptive/sp/1337284_07192020_BeautyGenericUpdate_tier_M_750x586.jpg",
+      "thumbnailUrl": "https://www.walgreens.com/images/adaptive/sp/1337284_07192020_BeautyGenericUpdate_tier_M_750x586.jpg",
+      "category": "women",
+      "qty": "100",
+      "status": 1
+    },
+    {
+      "id": 11,
+      "typeId": 1,
+      "title": "accusamus ea aliquid et amet sequi nemo",
+      "price": "450",
+      "discount": "130",
+      "url": "https://i.pinimg.com/originals/99/e7/1a/99e71a1b049e8d37be905b4ca6af1ae0.jpg",
+      "thumbnailUrl": "https://i.pinimg.com/originals/99/e7/1a/99e71a1b049e8d37be905b4ca6af1ae0.jpg",
+      "category": "women",
+      "qty": "100",
+      "status": 1
+    },
+    {
+      "id": 12,
+      "typeId": 1,
+      "title": "accusamus ea aliquid et amet sequi nemo",
+      "price": "450",
+      "discount": "130",
+      "url": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1557501880-lipstick-queen-frog-prince-lipstick-1557501870.jpg?crop=1xw:1xh;center,top&resize=480:*",
+      "thumbnailUrl": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1557501880-lipstick-queen-frog-prince-lipstick-1557501870.jpg?crop=1xw:1xh;center,top&resize=480:*",
+      "category": "women",
+      "qty": "100",
+      "status": 1
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "title": "Tohidul Islam",
+      "role": "Super Admin"
+    },
+    {
+      "id": 2,
+      "title": "Tohidul Islam",
+      "role": "Admin"
+    }
+  ],
+  "info": {
+    "title":"ecosmetics",
+    "address": "43 sukrabad, dhanmondi",
+    "email":"info@gmail.com",
+    "Social": [
+      {
+        "id": 0,
+        "title": "facebook",
+        "url": ""
+      },
+      {
+        "id": 1,
+        "title": "twitter",
+        "url": ""
+      },
+      {
+        "id": 2,
+        "title": "instagram",
+        "url": ""
+      }
+    ]
+  }
+}
